@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora Widget</string>
+    <string name="widget_desc">Calculadora direto na tela inicial</string>
+    <string name="instrucoes">Toque e segure na tela inicial, escolha \"Widgets\" e arraste a Calculadora Widget para onde quiser.\n\nOu toque no botão abaixo.</string>
+    <string name="adicionar">Adicionar à tela inicial</string>
+</resources>
