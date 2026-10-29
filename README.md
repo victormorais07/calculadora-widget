@@ -2,6 +2,10 @@
 
 Calculadora pra Android que funciona **direto no widget da tela inicial**, sem precisar abrir app nenhum. Fiz porque queria fazer conta rápida sem ficar abrindo e fechando a calculadora.
 
+<p align="center">
+  <img src="imagens/widget.jpg" alt="Widget da calculadora na tela inicial" width="320">
+</p>
+
 ## Funcionalidades
 
 - Calculadora completa no widget: soma, subtração, multiplicação, divisão e porcentagem
